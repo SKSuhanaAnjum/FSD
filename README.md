@@ -1,2 +1,0 @@
-# FSD
-Assignment 1
